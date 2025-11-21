@@ -1,0 +1,11 @@
+{
+  "name": "data-models",
+  "version": "1.0.0",
+  "description": "data models for gpx1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "ninad",
+  "license": "ISC"
+}
